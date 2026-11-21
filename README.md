@@ -3,7 +3,7 @@
 Dashboard projects I built while learning Power BI and data analysis. Both use practice datasets provided by my Excel & Power BI course (Rows & Columns).
 
 ## 1. Sales & Profit Dashboard
-![Sales Report](sales-report.png)
+![Sales Report](SALES%20REPORT.png)
 
 **Business question:** How are sales, costs and profit performing, and which products, regions and states are on or off target?
 
@@ -12,7 +12,7 @@ Dashboard projects I built while learning Power BI and data analysis. Both use p
 **Key finding:** Central earns the most profit of the four regions despite lower sales than West.
 
 ## 2. Product & Segment Sales Dashboard
-![Product & Segment Sales](product-segment-sales.png)
+![Product & Segment Sales](PRODUCT%20SEGMENT%20SALES%20REPORT.png)
 
 **Business question:** Where do gross sales come from, and which products earn the most profit?
 
